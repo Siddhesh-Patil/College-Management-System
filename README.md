@@ -4,7 +4,6 @@ This is a desktop application made using java swing framework. MySql database is
 
 
 ![image](https://github.com/Siddhesh-Patil/College-Management-System/assets/83155673/d65f4df2-03a7-426d-973b-9415da0d76d4)
-
 ![image](https://github.com/Siddhesh-Patil/College-Management-System/assets/83155673/369c4176-1cf8-4f37-948c-e3fe7c2c74a4)
 
 **Admin Panel**
