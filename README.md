@@ -12,9 +12,9 @@ This is a desktop application made using java swing framework. MySql database is
 ![image](https://github.com/Siddhesh-Patil/College-Management-System/assets/83155673/22cabdc3-33d0-47b5-92d9-ef931ea89624)
 **2. Add new student**
 ![image](https://github.com/Siddhesh-Patil/College-Management-System/assets/83155673/3acdf0ff-1045-40b4-a163-9a1b172fc46b)
-**3.View student and teacher**
+**3.View student and teacher** **4. Add and view exam marks**
 ![image](https://github.com/Siddhesh-Patil/College-Management-System/assets/83155673/c0067b7d-288e-4301-90cc-ecbe0964e98a)
-**4.Add and view exam marks**
+
 ![image](https://github.com/Siddhesh-Patil/College-Management-System/assets/83155673/b7d36d31-66e8-4a35-bf0f-93b83e0677b8)
 **5. Update teacher and student details**
 ![image](https://github.com/Siddhesh-Patil/College-Management-System/assets/83155673/46145f53-136c-4e9f-ae50-ffee74006e38)
